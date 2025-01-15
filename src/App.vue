@@ -142,15 +142,15 @@ export default {
         },
       ],
       "header": {
-        "planet": "Hercynia",
+        "planet": "CRESSIDIUM",
         "year": "5014u",
-        "system": "Ardennes-3",
+        "system": "Kronos",
         "gate": "Atlas-Quanokrim",
         "ring": "Atlas-Line",
-        "headerTitle": "Mirrorsmoke",
-        "headerSubtitle": "Mercenary Company",
-        "subheaderTitle": "Crisis Response",
-        "subheaderSubtitle": "Delta-Echo-Echo-Zulu",
+        "headerTitle": "Resistance",
+        "headerSubtitle": "Group Alhpa",
+        "subheaderTitle": "Last Order",
+        "subheaderSubtitle": "Hail Merry Company",
       },
       "options":{
         "eventsMarkdownPerMission": true
